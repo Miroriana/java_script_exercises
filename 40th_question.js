@@ -1,0 +1,1 @@
+// Write a function that squares each element of an array.
