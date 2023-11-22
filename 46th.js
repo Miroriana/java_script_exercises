@@ -1,0 +1,1 @@
+// Write a function that converts an array of strings to uppercase.
