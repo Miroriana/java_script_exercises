@@ -1,0 +1,1 @@
+// Write a function that checks if an array is sorted in ascending order.
